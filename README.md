@@ -23,7 +23,7 @@ A collection of github repositories related to android modding.
 
    # Apk Modding Tool Fo Manual App Modding Pc Software
 
-[Notepad++](https://notepad-plus-plus.org/downloads/) For : PC
+1- [Notepad++](https://notepad-plus-plus.org/downloads/) For : PC
 
 [Sublime Text](https://www.sublimetext.com/) For : PC
 
