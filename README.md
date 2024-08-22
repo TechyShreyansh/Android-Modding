@@ -21,6 +21,68 @@ A collection of github repositories related to android modding.
  - [Virtual Engines](https://github.com/jbro129/android-modding#virtual-engines)
  - [Other](https://github.com/jbro129/android-modding#other)
 
+   # Apk Modding Tool Fo Manual App Modding Pc Software
+
+[Notepad++](https://notepad-plus-plus.org/downloads/) For : PC
+
+[Sublime Text](https://www.sublimetext.com/) For : PC
+
+[Winmerge](https://winmerge.org/?lang=en) For : PC
+
+[Apk Tool](https://apktool.org/) For : PC
+
+[APK Easy Tool](https://androidmtk.com/apk-easy-tool) For : PC
+
+[Download the Latest Java LTS Free](https://www.oracle.com/in/java/technologies/downloads/) For : PC
+
+[JADX](https://sourceforge.net/projects/jadx.mirror/) For : PC
+
+[Android Studio](https://developer.android.com/studio) For : PC
+
+[GIMP](https://www.gimp.org/) For : PC
+
+[Photoshop](#) For : PC
+
+[Xposed Framework](https://github.com/ElderDrivers/EdXposed) For : Android
+
+[Magisk](https://magiskmanager.com/) For : Android
+
+[JEB Decompiler](https://www.pnfsoftware.com/) For : PC
+
+[Dex2Jar](https://sourceforge.net/projects/dex2jar/) For : PC
+
+[JD-GUI](https://java-decompiler.github.io/) For : PC
+
+[Black Dex](https://github.com/CodingGay/BlackDex/blob/main/README_EN.md) For : PC
+
+[Ghidra: Reverse engineering tool for analyzing APKs](https://ghidra-sre.org/) For : PC
+
+[Radare2: Advanced reverse engineering framework.](https://rada.re/r/down.html) For : PC
+
+[Hex-Rays Decompiler (IDA Pro): High-level decompiler for detailed code analysis.](https://hex-rays.com/decompiler/) For : PC
+
+[Frida: Dynamic instrumentation toolkit for debugging and modifying apps at runtime.](https://frida.re/docs/installation/) For : PC
+
+[Burp Suite - Web Aplication Security](https://portswigger.net/) For : PC
+
+[Hex Editor](https://mh-nexus.de/en/hxd/) For : PC
+
+# Additional Tools
+
+[MT Manager](#) For : Android
+
+[ClassyShark](https://github.com/google/android-classyshark) For : PC
+
+[AxmlPrinter2](https://github.com/digitalsleuth/AXMLPrinter2) For : PC
+
+[Androguard](https://github.com/androguard/androguard) For : PC
+
+[Bytecode Viewer](https://www.bytecodeviewer.com/) For : Android
+
+[SmaliEx](https://bitbucket.org/JesusFreke/smali/downloads/) For : Android
+
+[Objection](https://github.com/sensepost/objection) For : PC
+
 # Mod Menu Templates
 
 [New Mod Style Layout And Mod Menu](https://github.com/KMODs-dev/New-Mod-Style-Layout-And-Mod-Menu) by KMODs-dev : A mod menu template.
