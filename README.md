@@ -9,19 +9,22 @@ A collection of github repositories related to android modding.
 - [ ] Make everything look nicer (*in progress*)
 
 # Categories
- - [Mod Menu Templates](https://github.com/jbro129/android-modding#mod-menu-templates)
- - [Dumping and Unpacking](https://github.com/jbro129/android-modding#dumping-and-unpacking)
- - [Packing and Protection](https://github.com/jbro129/android-modding#packing-and-protection)
- - [C++ Libraries](https://github.com/jbro129/android-modding#c-libraries)
- - [Hooking Libraries and Templates](https://github.com/jbro129/android-modding#hooking-libraries-and-templates)
- - [Modding Projects and Tutorials](https://github.com/jbro129/android-modding#modding-projects-and-tutorials)
- - [Modding Tools](https://github.com/jbro129/android-modding#modding-tools)
- - [IDA and Reverse-Engineering Platforms](https://github.com/jbro129/android-modding#ida-and-reverse-engineering-platforms)
- - [Frida](https://github.com/jbro129/android-modding#frida)
- - [Virtual Engines](https://github.com/jbro129/android-modding#virtual-engines)
- - [Other](https://github.com/jbro129/android-modding#other)
+-  [Apk Modding Tool For Manual App Modding Pc Software
+](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#apk-modding-tool-for-manual-app-modding-pc-software)
+ - [Additional Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#additional-tools)
+ - [Mod Menu Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#mod-menu-templates)
+ - [Dumping and Unpacking](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#dumping-and-unpacking)
+ - [Packing and Protection](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#packing-and-protection)
+ - [C++ Libraries](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#c-libraries)
+ - [Hooking Libraries and Templates](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#hooking-libraries-and-templates)
+ - [Modding Projects and Tutorials](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-projects-and-tutorials)
+ - [Modding Tools](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#modding-tools)
+ - [IDA and Reverse-Engineering Platforms](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#ida-and-reverse-engineering-platforms)
+ - [Frida](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#frida)
+ - [Virtual Engines](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#virtual-engines)
+ - [Other](https://github.com/techyshreyansh/Android-Modding/tree/main?tab=readme-ov-file#other)
 
-   # Apk Modding Tool Fo Manual App Modding Pc Software
+   # Apk Modding Tool For Manual App Modding Pc Software
 
 1- [Notepad++](https://notepad-plus-plus.org/downloads/) For : PC // Use: Text editors for editing code and resources within APK files. They support syntax highlighting and other features useful for coding.
 
