@@ -41,7 +41,7 @@ A collection of github repositories related to android modding.
 
 9- [GIMP](https://www.gimp.org/) For : PC // Use: Image editors for modifying app graphics and UI elements.
 
-10- [Photoshop](#) For : PC // Use: Image editors for modifying app graphics and UI elements.
+10- [Photoshop](https://getintopc.com/softwares/graphic-design/adobe-photoshop-portable-cs6-free-download-4130718/) For : PC // Use: Image editors for modifying app graphics and UI elements.
 
 11- [Xposed Framework](https://github.com/ElderDrivers/EdXposed) For : Android // Use: Allows for system-level modifications without altering APK files. Useful for creating custom modules that modify app behavior.
 
